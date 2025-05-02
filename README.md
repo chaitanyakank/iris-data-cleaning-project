@@ -27,6 +27,10 @@ Python project for cleaning and analyzing the Iris dataset.
 
 > You can add screenshots later to show some of your plots.
 
+## 📊 Sample Output
+
+### Species Count Plot
+![Species Count Plot](species_count_plot.png)
 ## ✅ Status
 
 Project complete ✅

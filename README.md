@@ -23,9 +23,6 @@ Python project for cleaning and analyzing the Iris dataset.
 - `iris_cleaning.py`: Python script with all data cleaning and EDA steps
 - `iris_cleaned.xlsx`: Final cleaned dataset
 
-## 📊 Sample Output
-
-> You can add screenshots later to show some of your plots.
 
 ## 📊 Sample Output
 
